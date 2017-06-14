@@ -48,6 +48,9 @@ h1{
 	font-size: 300%;
 	font-weight: bold;
 }
+h4{
+	font-weight: bold;
+}
 .navbar-btn{
  	background-color: #f1c40f;
  	color: whitesmoke;
@@ -68,10 +71,30 @@ h1{
 	padding: 15px 10px;
 	font-size: 400%;
 }
-#row{
+#row2{
 	margin: 120px 40px;
 }
- /* SEVENTH SECTION*/
+/* THIRD SECTION*/
+.third-section{
+	background: #E0DFDF;
+}
+#row3{
+	margin: 120px 40px;
+}
+.portfolio{
+	padding-bottom: 50px;
+}
+.imagenes{
+	background: white;
+	padding: 10px 10px;
+}
+.img-responsive{
+	margin-top: 20px; 
+}
+/* FOURTH SECTION*/
+
+
+/* SEVENTH SECTION*/
  .seventh-section{
 	background-image: url(../img/map-image.png);
 	background-color: #5A5757;
