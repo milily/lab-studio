@@ -21,3 +21,12 @@
  	color: whitesmoke;
  	font-size: 1.2em;
  }
+ /* SEVENTH SECTION*/
+ .seventh-section{
+	background-image: url(../img/map-image.png);
+	background-color: #5A5757;
+	height: 100vh;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center center;
+}
