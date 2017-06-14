@@ -1,26 +1,65 @@
+ /* FIRST SECTION*/
 .first-section{
-	display: flex;
 	background-image: url(../img/header-bg.jpg);
 	height: 100vh;
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center center;
 }
+.nombre_logo {
+	margin-top: 10px;
+    font-size: 25px;
+    color: #f1c40f;
+    font-family: 'Kaushan Script', cursive;
+}
+.nav{
+	height: 70px;
+	padding-top: 10px;
+}
 .navbar-inverse .navbar-nav>li>a:hover{
     background-color: rgba(117,114,108,0.5);
-    background-color: yellow;
+    background-color: #f1c40f;
+    border-color: none;
 }
- .first-section h1{
+.link{
+	border-radius: 3px;
+}
+#parrafo{
+	padding-top: 250px;
+}
+.welcome{
+	font-family: 'Lato', sans-serif;
 	color: whitesmoke;
 }
+.titulo{
+	color: whitesmoke;
+	font-size: 400%;
+	font-weight: bold;
+}
+.btn-default{
+	border-color: #f1c40f;
+	padding:20px 60px;
+	font-size: 150%;
+	font-weight: bold;
+	margin-top: 50px;
+}
+h1{
+	color: #252424;
+	font-size: 300%;
+	font-weight: bold;
+}
 .navbar-btn{
- 	background-color: yellow;
+ 	background-color: #f1c40f;
  	color: whitesmoke;
  }
  .navbar-inverse .navbar-nav>li>a{
  	color: whitesmoke;
  	font-size: 1.2em;
  }
+  /* SECOND SECTION*/
+.amarillo{
+	background: #f1c40f;
+}
  /* SEVENTH SECTION*/
  .seventh-section{
 	background-image: url(../img/map-image.png);
