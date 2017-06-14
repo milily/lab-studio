@@ -1,4 +1,4 @@
- /* FIRST SECTION*/
+ /******* FIRST SECTION ******/
 .first-section{
 	background-image: url(../img/header-bg.jpg);
 	height: 100vh;
@@ -45,8 +45,8 @@
 }
 h1{
 	color: #252424;
-	font-size: 300%;
-	font-weight: bold;
+	font-size: 330%;
+	font-weight: bolder;
 }
 h4{
 	font-weight: bold;
@@ -59,7 +59,10 @@ h4{
  	color: whitesmoke;
  	font-size: 1.2em;
  }
-  /* SECOND SECTION*/
+  /******* SECOND SECTION *******/
+#row2{
+	margin: 120px 40px;
+}
 .services{
 	padding-bottom: 100px; 
 }
@@ -71,10 +74,8 @@ h4{
 	padding: 15px 10px;
 	font-size: 400%;
 }
-#row2{
-	margin: 120px 40px;
-}
-/* THIRD SECTION*/
+
+/******** THIRD SECTION *******/
 .third-section{
 	background: #E0DFDF;
 }
@@ -87,14 +88,37 @@ h4{
 .imagenes{
 	background: white;
 	padding: 10px 10px;
+	background-size: cover;
 }
 .img-responsive{
 	margin-top: 20px; 
 }
-/* FOURTH SECTION*/
+/******** FOURTH SECTION *******/
+#row4{
+	margin: 120px 40px;
+}
+.about{
+	padding-bottom: 100px;
+}
+.row4{
+	padding: 160px 20px;
+}
+.responsive{
+	border-color: black;
+	border-image: 30px;
+}
+.last_one{
+	border-color: #f1c40f;
+	background: #f1c40f;
+	padding:65px 73px;
+	font-size: 140%;
+	font-weight: bold;
+	
+	color: whitesmoke;
+}
 
 
-/* SEVENTH SECTION*/
+/******** SEVENTH SECTION *******/
  .seventh-section{
 	background-image: url(../img/map-image.png);
 	background-color: #5A5757;
