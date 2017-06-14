@@ -110,13 +110,18 @@ h4{
 .last_one{
 	border-color: #f1c40f;
 	background: #f1c40f;
-	padding:65px 73px;
+	padding:58px 73px;
 	font-size: 140%;
 	font-weight: bold;
-	
 	color: whitesmoke;
 }
-
+/******** FIFTH SECTION *******/
+.row5{
+	margin: 120px 40px;
+}
+.fifth-section{
+	background: #E0DFDF;
+}
 
 /******** SEVENTH SECTION *******/
  .seventh-section{
