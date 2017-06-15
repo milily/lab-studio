@@ -95,7 +95,7 @@ h4{
 }
 /******** FOURTH SECTION *******/
 #row4{
-	margin: 120px 40px;
+	margin: 100px 40px;
 }
 .about{
 	padding-bottom: 100px;
@@ -104,23 +104,43 @@ h4{
 	padding: 160px 20px;
 }
 .responsive{
-	border-color: black;
 	border-image: 30px;
+	background-color: #CECDCD;
 }
 .last_one{
 	border-color: #f1c40f;
 	background: #f1c40f;
-	padding:58px 73px;
+	padding:48px 68px;
 	font-size: 140%;
 	font-weight: bold;
 	color: whitesmoke;
 }
 /******** FIFTH SECTION *******/
 .row5{
-	margin: 120px 40px;
+	height: 780px;
+	position: relative;
+	top: 70px;
 }
 .fifth-section{
 	background: #E0DFDF;
+}
+.rrss{
+	background: #282828;
+	font-size: 1.5em;
+	color: whitesmoke;
+	padding: 10px 15px;
+}
+.blanco{
+	border-image: 30px;
+	background-color: white;
+	border: 6px solid white;
+}
+.peq_parrafo{
+	position: relative;
+	padding-left: 120px;
+	padding-right: 120px; 
+	
+	bottom: 200px;
 }
 
 /******** SEVENTH SECTION *******/
