@@ -25,7 +25,7 @@
 	border-radius: 3px;
 }
 #parrafo{
-	padding-top: 250px;
+	padding-top: 200px;
 }
 .welcome{
 	font-family: 'Lato', sans-serif;
@@ -151,9 +151,28 @@ h4{
 /******** SEVENTH SECTION *******/
  .seventh-section{
 	background-image: url(../img/map-image.png);
-	background-color: #5A5757;
-	height: 100vh;
+	background-color: #232222;
+	height: 150vh;
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center center;
+}
+.row7{
+	margin: 120px 20px;
+}
+.contact{
+	color: whitesmoke;
+}
+.contacts{
+	color: #A09E9E;
+	font-size: 1.3em;
+}
+.form-control{
+	width: 100%;
+	padding: 30px;
+	margin: 30px 40px;
+	border-radius: 5px;
+}
+#messege{
+	padding-bottom: 215px;
 }
