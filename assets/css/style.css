@@ -139,10 +139,15 @@ h4{
 	position: relative;
 	padding-left: 120px;
 	padding-right: 120px; 
-	
 	bottom: 200px;
 }
-
+/******** SIXTH SECTION *******/
+#row6{
+	margin: 50px 40px;
+}
+.logo{
+	margin: 10px 30px;
+}
 /******** SEVENTH SECTION *******/
  .seventh-section{
 	background-image: url(../img/map-image.png);
