@@ -176,3 +176,18 @@ h4{
 #messege{
 	padding-bottom: 215px;
 }
+/******** FOOTER SECTION *******/
+.row8{
+	margin: 50px 40px;
+}
+.footer{
+	position: relative;
+	bottom: 20px;
+}
+#futer{
+	color: black;
+}
+.link-footer{
+	color: #f1c40f;
+	font-size: 1.2em;
+}
